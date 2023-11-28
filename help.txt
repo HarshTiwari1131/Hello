@@ -1,0 +1,2 @@
+first we have to write git init  .
+second we type git clone and paste link of repsetory file.
